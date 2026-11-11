@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kareneddy.vercel.app/sitemap.xml
